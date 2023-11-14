@@ -1,0 +1,14 @@
+C:\Users\32480\Desktop\CodeLearn\事件与委托\bin\Debug\net7.0\EventAndDelegate.exe
+C:\Users\32480\Desktop\CodeLearn\事件与委托\bin\Debug\net7.0\EventAndDelegate.deps.json
+C:\Users\32480\Desktop\CodeLearn\事件与委托\bin\Debug\net7.0\EventAndDelegate.runtimeconfig.json
+C:\Users\32480\Desktop\CodeLearn\事件与委托\bin\Debug\net7.0\EventAndDelegate.dll
+C:\Users\32480\Desktop\CodeLearn\事件与委托\bin\Debug\net7.0\EventAndDelegate.pdb
+C:\Users\32480\Desktop\CodeLearn\事件与委托\obj\Debug\net7.0\EventAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32480\Desktop\CodeLearn\事件与委托\obj\Debug\net7.0\EventAndDelegate.AssemblyInfoInputs.cache
+C:\Users\32480\Desktop\CodeLearn\事件与委托\obj\Debug\net7.0\EventAndDelegate.AssemblyInfo.cs
+C:\Users\32480\Desktop\CodeLearn\事件与委托\obj\Debug\net7.0\EventAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\32480\Desktop\CodeLearn\事件与委托\obj\Debug\net7.0\EventAndDelegate.dll
+C:\Users\32480\Desktop\CodeLearn\事件与委托\obj\Debug\net7.0\refint\EventAndDelegate.dll
+C:\Users\32480\Desktop\CodeLearn\事件与委托\obj\Debug\net7.0\EventAndDelegate.pdb
+C:\Users\32480\Desktop\CodeLearn\事件与委托\obj\Debug\net7.0\EventAndDelegate.genruntimeconfig.cache
+C:\Users\32480\Desktop\CodeLearn\事件与委托\obj\Debug\net7.0\ref\EventAndDelegate.dll
